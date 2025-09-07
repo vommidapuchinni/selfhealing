@@ -10,6 +10,10 @@ The infrastructure continuously monitors the NGINX container. When Prometheus de
 
 ---
 
+Loom video: https://www.loom.com/share/567ecf19c84f44ff9b635eef78c831f5?sid=b2bd7071-3fa2-4f3c-9018-9d0e18ab3d74
+
+---
+
 ## Tools Used
 - **Prometheus**: Metrics collection and alerting rules  
 - **Alertmanager**: Alert management and webhook integration  
