@@ -110,4 +110,6 @@ NGINX recovered and back online:
 
 ![NGINX Up Job Table](screenshots/nginxupjob-table.png)
 
+![NGINX RESTARTED](screenshots/nginxrestarted.png)
+
 ---
